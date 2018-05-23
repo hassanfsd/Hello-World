@@ -1,7 +1,7 @@
 	<footer>
 		<div class="container_12">
 			<div class="wrapper">
-				<div class="grid_8">&copy; 2013 Powered by <a href="http://www.click-technologies.com/" rel="nofollow" class="link">Click-Technologies.com</a>				</div>
+				<div class="grid_8">&copy; 2013 Powered by <a href="http://www.click-technologies.com/" rel="nofollow" class="link">Click-GCUF.com</a>				</div>
 		  <div class="grid_4">
 					<div class="social">
 						Social:<a target="_blank" href="http://www.facebook.com/pages/Click-Technologies/169459863121529"><img src="images/facebook-icon.png" alt=""></a><!--<a href="#"><img src="images/twitter-icon.png" alt=""></a>-->
